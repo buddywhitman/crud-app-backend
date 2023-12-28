@@ -1,0 +1,6 @@
+com\sfs\school\domain\Student.class
+com\sfs\school\SchoolApplication.class
+com\sfs\school\controller\SchoolController.class
+com\sfs\school\service\StudentService.class
+com\sfs\school\service\StudentServiceImpl.class
+com\sfs\school\repository\StudentRepository.class
