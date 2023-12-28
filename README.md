@@ -1,6 +1,8 @@
 # crud-app-backend
 
-### This is a Spring Boot project with the Maven package manager, to start the RESTful API in your local dev environment, run the following commands in your terminal:
+### Java MVC Web Service built with Spring Boot & Maven
+
+To start the RESTful API in your local dev environment, run the following commands in your terminal:
 
 ```mvnw clean install```
 
